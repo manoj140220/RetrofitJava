@@ -1,0 +1,5 @@
+
+
+java:S1450#"]Remove the "myWorkerThread" field and declare it as a local variable in the relevant methods.(îáüÿÿÿÿ8ØÒôÓû.
+o	java:S100<"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ª¦Ÿşÿÿÿÿ8úù®ğ.
+o	java:S1008"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(‘š¶èşÿÿÿÿ8úù®ğ.
